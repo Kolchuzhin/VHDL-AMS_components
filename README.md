@@ -23,7 +23,8 @@
 
 ## 2. Libraries
 * VDA/FAT-AK30 VHDL-AMS model library
-
+* [Mike Donnelly from PARTQUEST](https://github.com/Kolchuzhin/VHDL-AMS_components/tree/main/Mike%20Donnelly)
+* [LMGT MEMS component library](https://github.com/Kolchuzhin/LMGT_MEMS_component_library)
 
 <!--
 hAMSter simulation system Version 2.0 // ANSOFT(SIMEC GmbH & Co KG)
